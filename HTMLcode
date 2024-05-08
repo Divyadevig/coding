@@ -1,0 +1,56 @@
+<html>
+<head>
+
+<title>ABOUT ME</title>
+
+</head>
+<header>
+<center>
+   <h3 style="background-color:green;">MY INTRO</h3>
+</center>
+</header>
+<body style="background-color:powderblue;">
+<center>
+ <h1 style="color:blue;">ABOUT ME</h1>
+</center>
+<hr>
+  <img src="C:\Users\USER\Pictures\Nature-Wallpaper.jpg"alt="my image" style="float:right" width="130" height="130">
+<p style="color:black;"><i>	My name is<span style="background-color:violet;"> divyadevi</span>.I am pursuing<b> MCA </b>in KGISL IIM in saravanampatti.I am from punjai puliampatti.I  have completed my bachelor degree computer technology in KGCAS i  saravanampatti
+My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti.I  have completed my bachelor degree computer technology in KGCAS i  saravanampatti.
+ My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti.I  have completed my bachelor degree computer technology in KGCAS i  saravanampatti.
+My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti.I  have completed my bachelor degree computer technology in KGCAS i  saravanampatti.
+My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti.I  have completed my bachelor degree computer technology in KGCAS i  saravanampatti</i>.</p>
+
+</body>
+<hr>
+
+
+
+
+<body>
+<details>
+<summary style="color:red;">MY INTRODUCTION</summary>
+<p >My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti.</p>
+</details>
+<hr>
+
+<figure>
+<figcaption> MY IMAGE</figcaption>
+ <img src="C:\Users\USER\Pictures\Nature-Wallpaper.jpg"alt="my image" width="150" height="150">
+</figure>6666666666666669
+<p >
+ <abbr title="My name is divyadevi.I am pursuing MCA in KGISL IIM in saravanampatti.I am from punjai puliampatti">ABOUT ME</abbr>
+<hr>
+
+<footer>
+<h3> contact us</h3>
+ <address>
+ <pre>
+  7/326,iswarya garden,punjai puliampatti,
+  erode.
+  638 459.
+</pre>
+</address>
+</footer>
+<a href="https://www.kgisliim.ac.in/" target="_blank" ><img src="C:\Users\USER\Downloads\calculator\campus3.jfif"></a>
+</html>
